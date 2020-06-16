@@ -1,0 +1,4 @@
+,Metric,Score
+0,explained_variance_score,0.64
+1,rmse_model,11.63
+2,reg.intercept,63.12
