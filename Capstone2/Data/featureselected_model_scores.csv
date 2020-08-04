@@ -1,0 +1,8 @@
+,model,recall_score,accuracy_score
+0,chi_featureselected_logreg_notadjusted,0.5653104925053534,0.797274275979557
+1,chi_featureselected_logreg_smote,0.7901498929336188,0.7461669505962522
+2,chi_featureselected_logreg_nearmiss,0.7944325481798715,0.6626916524701874
+3,chi_featureselected_rfc_notadjusted,0.4925053533190578,0.7927314026121521
+4,chi_featureselected_rfc_smote,0.582441113490364,0.78137421919364
+5,chi_featureselected_rfc_nearmiss,0.7259100642398287,0.5161839863713799
+6,col_featureselected_logreg_smote,0.7922912205567452,0.7245883021010789
