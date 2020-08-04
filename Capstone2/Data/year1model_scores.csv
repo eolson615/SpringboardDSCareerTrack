@@ -1,0 +1,3 @@
+,model,recall_score,accuracy_score
+0,logreg_year1model,67.95366795366795,70.93235831809872
+1,rfc_year1model,62.54826254826254,69.46983546617916
