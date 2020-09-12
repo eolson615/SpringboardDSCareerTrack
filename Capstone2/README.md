@@ -1,5 +1,4 @@
-The Problem:
-
+The Problem: 
 Can I use a data set from the fictional telecommunications company Telco to predict customer churn?  If so, can I identify which features have the greatest predictive power in identifying those customers who will leave?
 
 The Why: 
