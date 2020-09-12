@@ -12,13 +12,13 @@ After cleaning the data set and conducting extensive exploratory data analysis (
 If you are interested in understanding more of the discovery process that led to this model and the rejection of many others, please peruse these notebooks. I suggest the order given, but each notebook should be able to stand on its own as well.
 
 [1.0_Capstone2_cleaningdata](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/1.0_Capstone2_cleaningdata.ipynb)  
-[2.0_Capstone2_EDA]()  
-[2.1_Capstone2_featureselection]()  
-[3.0_Capstone2_LogisticRegression_initialassessment]()  
-[3.1_Capstone2_LogisticRegression_imbalanceddata]()  
-[3.2_Capstone2_randomforest]()  
-[3.3_Capstone2_LogReg_and_RFC_usingselectedfeatures]()  
-[4.0_Capstone2_furtherexploration_year1model]()  
+[2.0_Capstone2_EDA](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/2.0_Capstone2_EDA.ipynb)  
+[2.1_Capstone2_featureselection](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/2.1_Capstone2_featureselection.ipynb)  
+[3.0_Capstone2_LogisticRegression_initialassessment](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/3.0_Capstone2_LogisticRegression_initialassessment.ipynb)  
+[3.1_Capstone2_LogisticRegression_imbalanceddata](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/3.1_Capstone2_LogisticRegression_imbalanceddata.ipynb)  
+[3.2_Capstone2_randomforest](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/3.2_Capstone2_randomforest.ipynb)  
+[3.3_Capstone2_LogReg_and_RFC_usingselectedfeatures](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/3.3_Capstone2_LogReg_and_RFC_usingselectedfeatures.ipynb)  
+[4.0_Capstone2_furtherexploration_year1model](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/4.0_Capstone2_furtherexploration_year1model.ipynb)  
 
 This introduction is part of a larger report telling the story of my search to identify the customers who left Telco. This larger report is in the file “Capstone2_Final_Report”.
 
