@@ -20,5 +20,5 @@ If you are interested in understanding more of the discovery process that led to
 [3.3_Capstone2_LogReg_and_RFC_usingselectedfeatures](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/3.3_Capstone2_LogReg_and_RFC_usingselectedfeatures.ipynb)  
 [4.0_Capstone2_furtherexploration_year1model](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Coding/4.0_Capstone2_furtherexploration_year1model.ipynb)  
 
-This introduction is part of a larger report telling the story of my search to identify the customers who left Telco. This larger report is in the file “Capstone2_Final_Report”.
+This introduction is part of a larger report telling the story of my search to identify the customers who left Telco. This larger report is in the file [Capstone2_Final_Report](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Capstone2_Final_Report.pdf). I have also created a slide deck which could be presented to Telco managment or C-suite executives. It can be found in the file [Capstone2_Presentation](https://github.com/eolson615/SpringboardDSCareerTrack/blob/master/Capstone2/Capstone2_Presentation.pptx).
 
