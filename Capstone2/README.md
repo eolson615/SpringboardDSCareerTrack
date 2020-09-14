@@ -1,3 +1,6 @@
+## The Project
+This folder contains a project that I came up with independently to satisfy the requirements of Springboard's Capstone 2 project requirements. For this project, I wanted to solve a very common business issue. The contents of this folder contain the process and results of that endeavor. Enjoy!
+
 ## The Problem: 
 Can I use a data set from the fictional telecommunications company Telco to predict customer churn?  If so, can I identify which features have the greatest predictive power in identifying those customers who will leave?
 
